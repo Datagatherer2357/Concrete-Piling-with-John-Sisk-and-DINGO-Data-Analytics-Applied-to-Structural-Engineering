@@ -1,4 +1,4 @@
-## Concrete Piling with John Sisk & DINGO: *Application of Analytics*
+## Concrete Piling with Sisk & DINGO; *Application of Analytics*
 
 Higher Diploma (Data Analytics) experiential project
 
