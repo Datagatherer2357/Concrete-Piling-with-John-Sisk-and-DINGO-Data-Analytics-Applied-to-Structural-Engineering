@@ -1,4 +1,4 @@
-## Concrete Piling with Sisk & DINGO; *Application of Analytics*
+## Applied Data Analytics - *Understanding Concrete Piling with Sisk & DINGO*
 
 Higher Diploma (Data Analytics) experiential project
 
